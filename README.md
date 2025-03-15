@@ -6,8 +6,8 @@ Hello I'm pxiaccount. I'm person who programming as a hobby I've be coding since
 # Skills
 # 🛠️ Skills
 - JavaScript - Intermidiate
+  - React
 - C++ - Advanced
-- Bash - Beginner
 - Python - Intermidiate
   - Django
   <br>
