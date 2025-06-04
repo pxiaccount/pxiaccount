@@ -1,10 +1,10 @@
 # 🍀 Welcome
-Hello I'm pxiaccount. I'm person who programming as a hobby I've be coding since 2021 until now.
+Hello I'm Chaowakon! I've been coding since 2021.
 
-# Skills
 # 🛠️ Skills
 - JavaScript & TypeScript
   - React
 - C++
 - Python
   - Django
+- Golang
